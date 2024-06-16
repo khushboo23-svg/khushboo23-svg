@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm KHUSHBOO KUMARI</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+
+![gifme](https://github.com/khushboo23-svg/khushboo23-svg/assets/81730811/b5fa2950-93fc-4fe6-80dd-e38e872acfd4)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushboo23-svg&label=Profile%20views&color=0e75b6&style=flat" alt="khushboo23-svg" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khushboo23-svg" alt="khushboo23-svg" /></a> </p>
