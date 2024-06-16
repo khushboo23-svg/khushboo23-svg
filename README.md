@@ -3,6 +3,7 @@
 
 ![pikachu](https://github.com/khushboo23-svg/khushboo23-svg/assets/81730811/e311714b-44a5-48e9-8542-10e6601ad490)
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushboo23-svg&label=Profile%20views&color=0e75b6&style=flat" alt="khushboo23-svg" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khushboo23-svg" alt="khushboo23-svg" /></a> </p>
@@ -18,3 +19,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khushboo23-svg&show_icons=true&locale=en&layout=compact" alt="khushboo23-svg" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khushboo23-svg&show_icons=true&locale=en" alt="khushboo23-svg" /></p>
+
+![gif3](https://github.com/khushboo23-svg/khushboo23-svg/assets/81730811/fc4f7259-f2ac-45d1-b1c8-e5dbc9d9696a)
