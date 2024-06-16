@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://github.com/khushboo23-svg/khushboo23-svg/assets/81730811/e311714b-44a5-48e9-8542-10e6601ad490" alt="pikachu" width="100" height="100" />
   <h1 align="center">Hi 👋, I'm KHUSHBOO KUMARI</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<!-- <h3 align="center">A passionate web developer from India</h3> -->
 </p>
 
 
