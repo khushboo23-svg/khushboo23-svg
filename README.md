@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/khushboo23-svg/khushboo23-svg/assets/81730811/e311714b-44a5-48e9-8542-10e6601ad490" alt="pikachu" width="300" height="300" />
+  <img src="https://github.com/khushboo23-svg/khushboo23-svg/assets/81730811/e311714b-44a5-48e9-8542-10e6601ad490" alt="pikachu" width="200" height="200" />
 </p>
 
 
