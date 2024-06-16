@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm KHUSHBOO KUMARI</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate web developer from India</h3>
 
-![pikachu](https://github.com/khushboo23-svg/khushboo23-svg/assets/81730811/e311714b-44a5-48e9-8542-10e6601ad490)
+
+<p align="center">
+  <img src="https://github.com/khushboo23-svg/khushboo23-svg/assets/81730811/e311714b-44a5-48e9-8542-10e6601ad490" alt="pikachu" width="300" height="300" />
+</p>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushboo23-svg&label=Profile%20views&color=0e75b6&style=flat" alt="khushboo23-svg" /> </p>
